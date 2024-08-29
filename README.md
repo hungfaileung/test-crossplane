@@ -116,3 +116,7 @@ spec:
       }
 EOF
 ```
+
+```
+kubectl delete stacks crossplane-keyspace-gary
+```
